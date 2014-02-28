@@ -1,0 +1,4 @@
+ClassMate
+=========
+
+Alternative design template
